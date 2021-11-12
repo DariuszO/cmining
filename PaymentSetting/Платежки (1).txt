@@ -1,0 +1,10 @@
+1. http://joxi.ru/DrlLeOH4vgLXrP
+2. http://joxi.ru/1A5jn9CKnjVarE - Перевести в Disabled
+3. http://joxi.ru/Y2LnWqcn956Br6 - 1)Ввести свой ключ идентификации любой, 2) Ввести ссылку на коллбэк пример http://site.ru/Callback/Result  (где site.ru ваш сайт)
+4. http://joxi.ru/a2XMkeUy1YqNAg
+5. http://joxi.ru/LmGZz3URe0qYrl
+6. http://joxi.ru/12MXdQH4MzedmJ
+7. http://joxi.ru/MAjWwMiv4Q0Nre
+8. http://joxi.ru/Vrw1wQSKOeN62X
+
+Потом берем ключи http://joxi.ru/EA4EOpiDwEgWrb   и вписываем в конфиг. Если что помогу если будут вопросы

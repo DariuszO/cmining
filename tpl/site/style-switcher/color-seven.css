@@ -1,0 +1,303 @@
+/*-----------------------------------------------------------------------------------
+    # color switcher, Style name:color-one.css; color code: #34495e;
+-----------------------------------------------------------------------------------*/
+
+/* Form theme-default css */
+a,
+button,
+input {
+    color: #34495e;
+}
+a {
+    color: #34495e;
+}
+a:hover {
+    color: #34495e;
+}
+.title-h1 span {
+  color: #34495e;
+}
+h1 a:hover,
+.title-h1 a:hover{
+  color: #34495e;
+}
+.subtitle a:hover{
+  color: #34495e;
+}
+h3 a:hover,
+.title a:hover{
+  color: #34495e;
+}
+h4 a:hover,
+.semi-title a:hover{
+  color: #34495e;
+}
+.title-samibold a:hover{
+  color: #34495e;
+}
+.title-saminormal a:hover{
+  color: #34495e;
+}
+.title-divider:before{
+  background: #34495e;
+}
+.bg-primary {
+  background: #34495e;
+}
+.default-color {
+  color: #34495e;
+}
+blockquote {
+  border-left-color: #34495e;
+}
+.blockquote-reverse,
+blockquote.pull-right {
+  border-right-color: #34495e;
+}
+.button-primary {
+  background: #34495e;
+  border-color: transparent;
+}
+.p-table-content .p-table-btn{
+	color: #fff;
+}
+.button-primary.effect-sweep:hover,
+.button-primary.effect-sweep:focus,
+.button-primary.effect-sweep:active{
+  color: #34495e;
+}
+.transparent.effect-sweep:after{
+  background: #fff;
+}
+.transparent:hover,
+.transparent:focus,
+.transparent:active {
+  border-color: #34495e;
+}
+/** tooltip **/
+.tooltip-inner {
+    background-color:#34495e;
+}
+.tooltip.top .tooltip-arrow{
+  border-top-color: #34495e;
+}
+.tooltip.right .tooltip-arrow{
+  border-right-color: #34495e;
+}
+.tooltip.left .tooltip-arrow{
+  border-left-color: #34495e;
+}
+.tooltip.bottom .tooltip-arrow{
+  border-bottom-color: #34495e;
+}
+.info-box.info-box-style-1:hover span,
+.info-box.info-box-style-2:hover span{
+  background-color: #34495e;
+}
+.info-box.info-box-style-1:hover span:after,
+.info-box.info-box-style-2:hover span:after{
+  border-bottom-color: #34495e;
+}
+.info-box-style-3 span {
+  border: 1px solid #34495e;
+}
+.info-box-style-3:hover .info-box-top span{
+  background: #34495e;
+}
+.info-box-style-4:hover span{
+  color: #34495e;
+}
+.info-box-style-5 span {
+  border: 1px solid #34495e;
+}
+.info-box-style-5:hover .info-box-top span{
+  background: #34495e;
+}
+/* Theme Color */
+.theme-default-color{
+  background: #34495e;
+}
+.theme-text-color,.theme-text-color a{
+  color: #34495e;
+}
+/* Form Style css */
+.img-overlay:after{
+    background: #34495e;
+}
+.portfolio-item:hover .portfolio-content {
+    border-bottom-color: #34495e;
+}
+.price-table-wrapper.standard .p-table-heading,
+.price-table-wrapper:hover .p-table-heading{
+  background: #34495e;
+}
+.package-orderbutton:hover{background: #34495e;}
+.standard .package-price:after{
+  background: #34495e;
+}
+.standard .package-orderbutton{
+  background: #34495e;
+}
+.testimonial-slide-image.slick-center img {
+  border-color: #34495e;
+}
+.slick-dots li.slick-active{
+  background: #34495e;
+}
+.owl-controls .owl-dots .owl-dot.active span{
+    background: #34495e;
+}
+.testimonials-carousel-2 .owl-controls .owl-dots .owl-dot.active span{
+    background: #34495e;
+}
+.post-date {
+    background: #34495e;
+}
+.footer-nav li a:hover{
+    color: #34495e;
+}
+.member-details:hover .member-name{
+  border-bottom-color: #34495e;
+}
+.pagination .page-list li span{
+  background: #34495e;
+}
+.portfolio-cat-list li a:hover,
+.portfolio-cat-list li.current a{
+    color: #34495e;
+}
+.social-list.text-black li a:hover i{color: #34495e;}
+.widget-title {
+  background: #34495e none repeat scroll 0 0;
+}
+.cat-list li a:hover,
+.cat-list li.current a{
+    color: #34495e;
+}
+.tag-list a:hover{
+  background: #34495e;
+  border-color: #34495e;
+}
+#scrollUp span {
+  border-color: #34495e;
+  color: #34495e;
+}
+#scrollUp:hover span{
+  background-color: #34495e;
+}
+#scrollUp:hover span:after{
+  border-bottom-color: #34495e;
+}
+.breadcrumb-item.active{
+  color: #34495e;
+}
+.breadcrumb-item a:hover{
+  color: #34495e;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus{
+  background-color: #34495e;
+  border-color: #34495e;
+} 
+.tab-style2 .tab-content,
+.tab-style2 .tab-content .active,
+.tab-style2 .tab-content p {
+  background-color: #34495e;
+}
+.theme-default-color > .panel-heading {
+  background-color: #34495e;
+}
+.theme-default-color > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #34495e;
+}
+.theme-default-color{
+  border-color: #34495e;
+}
+.theme-default-color .progress-bar {
+  background: #34495e;
+}
+.page-404{
+  background: #34495e;
+}
+/* header css */
+.dropdown-menu li a:hover{
+  color: #fefefe;
+  background: #34495e;
+}
+.social-list li a:hover{
+  color: #34495e;
+}
+.logo-hover-box{
+    border-top-color: #34495e;
+}
+.logo-hover-contact .social-list a{
+  color: #34495e;
+}
+.main-menu ul li a:hover,
+.main-menu ul li.active a{
+  color: #34495e;
+}
+.main-menu ul li a:after{
+  background: #34495e;
+}
+.main-menu ul li:hover > a{
+  color: #34495e;
+}
+/* Dropdown menu */
+.main-menu ul li > ul{
+    border-top-color: #34495e;
+}
+.main-menu ul li > ul:before,
+.logo-hover-box:before{
+    border-bottom-color: #34495e;
+}
+.main-menu ul li ul li > ul:before{
+  border-bottom-color: #34495e;
+}
+.mega-menu-wrapper{
+  border-top-color: #34495e;
+}
+.mega-menu-wrapper:before {
+    border-bottom-color: #34495e;
+}
+.mega-title:after {
+  background: #34495e;
+}
+
+/* slider css */
+.header-text-item .cd-words-wrapper,
+.header-text-item .cd-words-wrapper b,
+.header-text-item .cd-words-wrapper i{
+  color: #34495e;
+}
+.nivo-directionNav a:hover{
+    background: #34495e;
+}
+.nivo-customizer .nivo-controlNav a.active {
+    background: #34495e;
+}
+.blog-heffect:before,
+.blog-heffect:after{
+    background: rgba(52, 73, 94, .50);
+}
+.header-topbg{
+	background-color: #34495e;
+}
+.instagram-feed li a:after{
+    background: rgba(52, 73, 94, .50);
+}
+.search-form-btn {
+  background-color: #34495e;
+  border-color: #34495e;
+  color: #fff;
+}
+.swiper-navarrow:hover{
+    background: #34495e;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active{
+    background: #34495e;
+}
+.home-intortab ul.nav li.active a {
+  color: #34495e;
+}

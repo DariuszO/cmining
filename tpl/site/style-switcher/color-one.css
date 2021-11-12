@@ -1,0 +1,303 @@
+/*-----------------------------------------------------------------------------------
+    # color switcher, Style name:color-one.css; color code: #ff6b57;
+-----------------------------------------------------------------------------------*/
+
+/* Form theme-default css */
+a,
+button,
+input {
+    color: #ff6b57;
+}
+a {
+    color: #ff6b57;
+}
+a:hover {
+    color: #ff6b57;
+}
+.title-h1 span {
+  color: #ff6b57;
+}
+h1 a:hover,
+.title-h1 a:hover{
+  color: #ff6b57;
+}
+.subtitle a:hover{
+  color: #ff6b57;
+}
+h3 a:hover,
+.title a:hover{
+  color: #ff6b57;
+}
+h4 a:hover,
+.semi-title a:hover{
+  color: #ff6b57;
+}
+.title-samibold a:hover{
+  color: #ff6b57;
+}
+.title-saminormal a:hover{
+  color: #ff6b57;
+}
+.title-divider:before{
+  background: #ff6b57;
+}
+.bg-primary {
+  background: #ff6b57;
+}
+.default-color {
+  color: #ff6b57;
+}
+blockquote {
+  border-left-color: #ff6b57;
+}
+.blockquote-reverse, blockquote.pull-right {
+  border-right-color: #ff6b57;
+}
+.button-primary {
+  background: #ff6b57;
+  border-color: transparent;
+}
+.p-table-content .p-table-btn{
+	color: #fff;
+}
+.button-primary.effect-sweep:hover,
+.button-primary.effect-sweep:focus,
+.button-primary.effect-sweep:active{
+  color: #ff6b57;
+}
+.transparent.effect-sweep:after{
+  background: #fff;
+}
+.transparent:hover,
+.transparent:focus,
+.transparent:active {
+  border-color: #ff6b57;
+}
+/** tooltip **/
+.tooltip-inner {
+    background-color:#ff6b57;
+}
+.tooltip.top .tooltip-arrow{
+  border-top-color: #ff6b57;
+}
+.tooltip.right .tooltip-arrow{
+  border-right-color: #ff6b57;
+}
+.tooltip.left .tooltip-arrow{
+  border-left-color: #ff6b57;
+}
+.tooltip.bottom .tooltip-arrow{
+  border-bottom-color: #ff6b57;
+}
+.info-box.info-box-style-1:hover span,
+.info-box.info-box-style-2:hover span{
+  background-color: #ff6b57;
+}
+.info-box.info-box-style-1:hover span:after,
+.info-box.info-box-style-2:hover span:after{
+  border-bottom-color: #ff6b57;
+}
+.info-box-style-3 span {
+  border: 1px solid #ff6b57;
+}
+.info-box-style-3:hover .info-box-top span{
+  background: #ff6b57;
+}
+.info-box-style-4:hover span{
+  color: #ff6b57;
+}
+.info-box-style-5 span {
+  border: 1px solid #ff6b57;
+}
+.info-box-style-5:hover .info-box-top span{
+  background: #ff6b57;
+}
+/* Theme Color */
+.theme-default-color{
+  background: #ff6b57;
+}
+.theme-text-color,
+.theme-text-color a{
+  color: #ff6b57;
+}
+/* Form Style css */
+.img-overlay:after{
+    background: #ff6b57;
+}
+.portfolio-item:hover .portfolio-content {
+    border-bottom-color: #ff6b57;
+}
+.price-table-wrapper.standard .p-table-heading,
+.price-table-wrapper:hover .p-table-heading{
+  background: #ff6b57;
+}
+.package-orderbutton:hover{background: #ff6b57;}
+.standard .package-price:after{
+  background: #ff6b57;
+}
+.standard .package-orderbutton{
+  background: #ff6b57;
+}
+.testimonial-slide-image.slick-center img {
+  border-color: #ff6b57;
+}
+.slick-dots li.slick-active{
+  background: #ff6b57;
+}
+.owl-controls .owl-dots .owl-dot.active span{
+    background: #ff6b57;
+}
+.testimonials-carousel-2 .owl-controls .owl-dots .owl-dot.active span{
+    background: #ff6b57;
+}
+.post-date {
+    background: #ff6b57;
+}
+.footer-nav li a:hover{
+    color: #ff6b57;
+}
+.member-details:hover .member-name{
+  border-bottom-color: #ff6b57;
+}
+.pagination .page-list li span{
+  background: #ff6b57;
+}
+.portfolio-cat-list li a:hover,
+.portfolio-cat-list li.current a{
+    color: #ff6b57;
+}
+.social-list.text-black li a:hover i{color: #ff6b57;}
+.widget-title {
+  background: #ff6b57 none repeat scroll 0 0;
+}
+.cat-list li a:hover,
+.cat-list li.current a{
+    color: #ff6b57;
+}
+.tag-list a:hover{
+  background: #ff6b57;
+  border-color: #ff6b57;
+}
+#scrollUp span {
+  border-color: #ff6b57;
+  color: #ff6b57;
+}
+#scrollUp:hover span{
+  background-color: #ff6b57;
+}
+#scrollUp:hover span:after{
+  border-bottom-color: #ff6b57;
+}
+.breadcrumb-item.active{
+  color: #ff6b57;
+}
+.breadcrumb-item a:hover{
+  color: #ff6b57;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus{
+  background-color: #ff6b57;
+  border-color: #ff6b57;
+} 
+.tab-style2 .tab-content,
+.tab-style2 .tab-content .active,
+.tab-style2 .tab-content p {
+  background-color: #ff6b57;
+}
+.theme-default-color > .panel-heading {
+  background-color: #ff6b57;
+}
+.theme-default-color > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #ff6b57;
+}
+.theme-default-color{
+  border-color: #ff6b57;
+}
+.theme-default-color .progress-bar {
+  background: #ff6b57;
+}
+.page-404{
+  background: #ff6b57;
+}
+/* header css */
+.dropdown-menu li a:hover{
+  color: #fefefe;
+  background: #ff6b57;
+}
+.social-list li a:hover{
+  color: #ff6b57;
+}
+.logo-hover-box{
+    border-top-color: #ff6b57;
+}
+.logo-hover-contact .social-list a{
+  color: #ff6b57;
+}
+.main-menu ul li a:hover,
+.main-menu ul li.active a{
+  color: #ff6b57;
+}
+.main-menu ul li a:after{
+  background: #ff6b57;
+}
+.main-menu ul li:hover > a{
+  color: #ff6b57;
+}
+/* Dropdown menu */
+.main-menu ul li > ul{
+    border-top-color: #ff6b57;
+}
+.main-menu ul li > ul:before,
+.logo-hover-box:before{
+    border-bottom-color: #ff6b57;
+}
+.main-menu ul li ul li > ul:before{
+  border-bottom-color: #ff6b57;
+}
+.mega-menu-wrapper{
+  border-top-color: #ff6b57;
+}
+.mega-menu-wrapper:before {
+    border-bottom-color: #ff6b57;
+}
+.mega-title:after {
+  background: #ff6b57;
+}
+
+/* slider css */
+.header-text-item .cd-words-wrapper, 
+.header-text-item .cd-words-wrapper b,
+.header-text-item .cd-words-wrapper i{
+  color: #ff6b57;
+}
+.nivo-directionNav a:hover{
+    background: #ff6b57;
+}
+.nivo-customizer .nivo-controlNav a.active {
+    background: #ff6b57;
+}
+.blog-heffect:before,
+.blog-heffect:after{
+    background: rgba(255, 107, 87, .50);
+}
+.header-topbg{
+	background-color: #ff6b57;
+}
+.instagram-feed li a:after{
+    background: rgba(255, 107, 87, .50);
+}
+.search-form-btn {
+  background-color: #ff6b57;
+  border-color: #ff6b57;
+  color: #fff;
+}
+.swiper-navarrow:hover{
+    background: #ff6b57;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active{
+    background: #ff6b57;
+}
+.home-intortab ul.nav li.active a {
+  color: #ff6b57;
+}

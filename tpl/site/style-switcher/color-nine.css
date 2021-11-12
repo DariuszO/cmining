@@ -1,0 +1,301 @@
+/*-----------------------------------------------------------------------------------
+    # color switcher, Style name:color-one.css; color code: #c0392b;
+-----------------------------------------------------------------------------------*/
+
+/* Form theme-default css */
+a,
+button,
+input {
+    color: #c0392b;
+}
+a {
+    color: #c0392b;
+}
+a:hover {
+    color: #c0392b;
+}
+.title-h1 span {
+  color: #c0392b;
+}
+h1 a:hover,
+.title-h1 a:hover{
+  color: #c0392b;
+}
+.subtitle a:hover{
+  color: #c0392b;
+}
+h3 a:hover,
+.title a:hover{
+  color: #c0392b;
+}
+h4 a:hover,
+.semi-title a:hover{
+  color: #c0392b;
+}
+.title-samibold a:hover{
+  color: #c0392b;
+}
+.title-saminormal a:hover{
+  color: #c0392b;
+}
+.title-divider:before{
+  background: #c0392b;
+}
+.bg-primary {
+  background: #c0392b;
+}
+.default-color {
+  color: #c0392b;
+}
+blockquote {
+  border-left-color: #c0392b;
+}
+.blockquote-reverse, 
+blockquote.pull-right {
+  border-right-color: #c0392b;
+}
+.button-primary {
+  background: #c0392b;
+  border-color: transparent;
+}
+.p-table-content .p-table-btn{
+	color: #fff;
+}
+.button-primary.effect-sweep:hover,
+.button-primary.effect-sweep:focus,
+.button-primary.effect-sweep:active{
+  color: #c0392b;
+}
+.transparent.effect-sweep:after{
+  background: #fff;
+}
+.transparent:hover,
+.transparent:focus,
+.transparent:active {
+  border-color: #c0392b;
+}
+/** tooltip **/
+.tooltip-inner {
+    background-color:#c0392b;
+}
+.tooltip.top .tooltip-arrow{
+  border-top-color: #c0392b;
+}
+.tooltip.right .tooltip-arrow{
+  border-right-color: #c0392b;
+}
+.tooltip.left .tooltip-arrow{
+  border-left-color: #c0392b;
+}
+.tooltip.bottom .tooltip-arrow{
+  border-bottom-color: #c0392b;
+}
+.info-box.info-box-style-1:hover span,
+.info-box.info-box-style-2:hover span{
+  background-color: #c0392b;
+}
+.info-box.info-box-style-1:hover span:after,
+.info-box.info-box-style-2:hover span:after{
+  border-bottom-color: #c0392b;
+}
+.info-box-style-3 span {
+  border: 1px solid #c0392b;
+}
+.info-box-style-3:hover .info-box-top span{
+  background: #c0392b;
+}
+.info-box-style-4:hover span{
+  color: #c0392b;
+}
+.info-box-style-5 span {
+  border: 1px solid #c0392b;
+}
+.info-box-style-5:hover .info-box-top span{
+  background: #c0392b;
+}
+/* Theme Color */
+.theme-default-color{
+  background: #c0392b;
+}
+.theme-text-color,.theme-text-color a{
+  color: #c0392b;
+}
+/* Form Style css */
+.img-overlay:after{
+    background: #c0392b;
+}
+.portfolio-item:hover .portfolio-content {
+    border-bottom-color: #c0392b;
+}
+.price-table-wrapper.standard .p-table-heading,
+.price-table-wrapper:hover .p-table-heading{
+  background: #c0392b;
+}
+.package-orderbutton:hover{background: #c0392b;}
+.standard .package-price:after{
+  background: #c0392b;
+}
+.standard .package-orderbutton{
+  background: #c0392b;
+}
+.testimonial-slide-image.slick-center img {
+  border-color: #c0392b;
+}
+.slick-dots li.slick-active{
+  background: #c0392b;
+}
+.owl-controls .owl-dots .owl-dot.active span{
+    background: #c0392b;
+}
+.testimonials-carousel-2 .owl-controls .owl-dots .owl-dot.active span{
+    background: #c0392b;
+}
+.post-date {
+    background: #c0392b;
+}
+.footer-nav li a:hover{
+    color: #c0392b;
+}
+.member-details:hover .member-name{
+  border-bottom-color: #c0392b;
+}
+.pagination .page-list li span{
+  background: #c0392b;
+}
+.portfolio-cat-list li a:hover,
+.portfolio-cat-list li.current a{
+    color: #c0392b;
+}
+.social-list.text-black li a:hover i{color: #c0392b;}
+.widget-title {
+  background: #c0392b none repeat scroll 0 0;
+}
+.cat-list li a:hover,
+.cat-list li.current a{
+    color: #c0392b;
+}
+.tag-list a:hover{
+  background: #c0392b;
+  border-color: #c0392b;
+}
+#scrollUp span {
+  border-color: #c0392b;
+  color: #c0392b;
+}
+#scrollUp:hover span{
+  background-color: #c0392b;
+}
+#scrollUp:hover span:after{
+  border-bottom-color: #c0392b;
+}
+.breadcrumb-item.active{
+  color: #c0392b;
+}
+.breadcrumb-item a:hover{
+  color: #c0392b;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus{
+  background-color: #c0392b;
+  border-color: #c0392b;
+} 
+.tab-style2 .tab-content,.tab-style2 .tab-content .active,.tab-style2 .tab-content p {
+  background-color: #c0392b;
+}
+.theme-default-color > .panel-heading {
+  background-color: #c0392b;
+}
+.theme-default-color > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #c0392b;
+}
+.theme-default-color{
+  border-color: #c0392b;
+}
+.theme-default-color .progress-bar {
+  background: #c0392b;
+}
+.page-404{
+  background: #c0392b;
+}
+/* header css */
+.dropdown-menu li a:hover{
+  color: #fefefe;
+  background: #c0392b;
+}
+.social-list li a:hover{
+  color: #c0392b;
+}
+.logo-hover-box{
+    border-top-color: #c0392b;
+}
+.logo-hover-contact .social-list a{
+  color: #c0392b;
+}
+.main-menu ul li a:hover,
+.main-menu ul li.active a{
+  color: #c0392b;
+}
+.main-menu ul li a:after{
+  background: #c0392b;
+}
+.main-menu ul li:hover > a{
+  color: #c0392b;
+}
+/* Dropdown menu */
+.main-menu ul li > ul{
+    border-top-color: #c0392b;
+}
+.main-menu ul li > ul:before,
+.logo-hover-box:before{
+    border-bottom-color: #c0392b;
+}
+.main-menu ul li ul li > ul:before{
+  border-bottom-color: #c0392b;
+}
+.mega-menu-wrapper{
+  border-top-color: #c0392b;
+}
+.mega-menu-wrapper:before {
+    border-bottom-color: #c0392b;
+}
+.mega-title:after {
+  background: #c0392b;
+}
+
+/* slider css */
+.header-text-item .cd-words-wrapper, 
+.header-text-item .cd-words-wrapper b,
+.header-text-item .cd-words-wrapper i{
+  color: #c0392b;
+}
+.nivo-directionNav a:hover{
+    background: #c0392b;
+}
+.nivo-customizer .nivo-controlNav a.active {
+    background: #c0392b;
+}
+.blog-heffect:before,
+.blog-heffect:after{
+    background: rgba(192, 57, 43, .50);
+}
+.header-topbg{
+	background-color: #c0392b;
+}
+.instagram-feed li a:after{
+    background: rgba(192, 57, 43, .50);
+}
+.search-form-btn {
+  background-color: #c0392b;
+  border-color: #c0392b;
+  color: #fff;
+}
+.swiper-navarrow:hover{
+    background: #c0392b;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active{
+    background: #c0392b;
+}
+.home-intortab ul.nav li.active a {
+  color: #c0392b;
+}

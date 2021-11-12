@@ -1,0 +1,304 @@
+/*-----------------------------------------------------------------------------------
+    # color switcher, Style name:color-one.css; color code: #9b59b6;
+-----------------------------------------------------------------------------------*/
+
+/* Form theme-default css */
+a,
+button,
+input {
+    color: #9b59b6;
+}
+a {
+    color: #9b59b6;
+}
+a:hover {
+    color: #9b59b6;
+}
+.title-h1 span {
+  color: #9b59b6;
+}
+h1 a:hover,
+.title-h1 a:hover{
+  color: #9b59b6;
+}
+.subtitle a:hover{
+  color: #9b59b6;
+}
+h3 a:hover,
+.title a:hover{
+  color: #9b59b6;
+}
+h4 a:hover,
+.semi-title a:hover{
+  color: #9b59b6;
+}
+.title-samibold a:hover{
+  color: #9b59b6;
+}
+.title-saminormal a:hover{
+  color: #9b59b6;
+}
+.title-divider:before{
+  background: #9b59b6;
+}
+.bg-primary {
+  background: #9b59b6;
+}
+.default-color {
+  color: #9b59b6;
+}
+blockquote {
+  border-left-color: #9b59b6;
+}
+.blockquote-reverse,
+blockquote.pull-right {
+  border-right-color: #9b59b6;
+}
+.button-primary {
+  background: #9b59b6;
+  border-color: transparent;
+}
+.p-table-content .p-table-btn{
+	color: #fff;
+}
+.button-primary.effect-sweep:hover,
+.button-primary.effect-sweep:focus,
+.button-primary.effect-sweep:active{
+  color: #9b59b6;
+}
+.transparent.effect-sweep:after{
+  background: #fff;
+}
+.transparent:hover,
+.transparent:focus,
+.transparent:active {
+  border-color: #9b59b6;
+}
+/** tooltip **/
+.tooltip-inner {
+    background-color:#9b59b6;
+}
+.tooltip.top .tooltip-arrow{
+  border-top-color: #9b59b6;
+}
+.tooltip.right .tooltip-arrow{
+  border-right-color: #9b59b6;
+}
+.tooltip.left .tooltip-arrow{
+  border-left-color: #9b59b6;
+}
+.tooltip.bottom .tooltip-arrow{
+  border-bottom-color: #9b59b6;
+}
+.info-box.info-box-style-1:hover span,
+.info-box.info-box-style-2:hover span{
+  background-color: #9b59b6;
+}
+.info-box.info-box-style-1:hover span:after,
+.info-box.info-box-style-2:hover span:after{
+  border-bottom-color: #9b59b6;
+}
+.info-box-style-3 span {
+  border: 1px solid #9b59b6;
+}
+.info-box-style-3:hover .info-box-top span{
+  background: #9b59b6;
+}
+.info-box-style-4:hover span{
+  color: #9b59b6;
+}
+.info-box-style-5 span {
+  border: 1px solid #9b59b6;
+}
+.info-box-style-5:hover .info-box-top span{
+  background: #9b59b6;
+}
+/* Theme Color */
+.theme-default-color{
+  background: #9b59b6;
+}
+.theme-text-color,
+.theme-text-color a{
+  color: #9b59b6;
+}
+/* Form Style css */
+.img-overlay:after{
+    background: #9b59b6;
+}
+.portfolio-item:hover .portfolio-content {
+    border-bottom-color: #9b59b6;
+}
+.price-table-wrapper.standard .p-table-heading,
+.price-table-wrapper:hover .p-table-heading{
+  background: #9b59b6;
+}
+.package-orderbutton:hover{background: #9b59b6;}
+.standard .package-price:after{
+  background: #9b59b6;
+}
+.standard .package-orderbutton{
+  background: #9b59b6;
+}
+.testimonial-slide-image.slick-center img {
+  border-color: #9b59b6;
+}
+.slick-dots li.slick-active{
+  background: #9b59b6;
+}
+.owl-controls .owl-dots .owl-dot.active span{
+    background: #9b59b6;
+}
+.testimonials-carousel-2 .owl-controls .owl-dots .owl-dot.active span{
+    background: #9b59b6;
+}
+.post-date {
+    background: #9b59b6;
+}
+.footer-nav li a:hover{
+    color: #9b59b6;
+}
+.member-details:hover .member-name{
+  border-bottom-color: #9b59b6;
+}
+.pagination .page-list li span{
+  background: #9b59b6;
+}
+.portfolio-cat-list li a:hover,
+.portfolio-cat-list li.current a{
+    color: #9b59b6;
+}
+.social-list.text-black li a:hover i{color: #9b59b6;}
+.widget-title {
+  background: #9b59b6 none repeat scroll 0 0;
+}
+.cat-list li a:hover,
+.cat-list li.current a{
+    color: #9b59b6;
+}
+.tag-list a:hover{
+  background: #9b59b6;
+  border-color: #9b59b6;
+}
+#scrollUp span {
+  border-color: #9b59b6;
+  color: #9b59b6;
+}
+#scrollUp:hover span{
+  background-color: #9b59b6;
+}
+#scrollUp:hover span:after{
+  border-bottom-color: #9b59b6;
+}
+.breadcrumb-item.active{
+  color: #9b59b6;
+}
+.breadcrumb-item a:hover{
+  color: #9b59b6;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus{
+  background-color: #9b59b6;
+  border-color: #9b59b6;
+} 
+.tab-style2 .tab-content,
+.tab-style2 .tab-content .active,
+.tab-style2 .tab-content p {
+  background-color: #9b59b6;
+}
+.theme-default-color > .panel-heading {
+  background-color: #9b59b6;
+}
+.theme-default-color > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #9b59b6;
+}
+.theme-default-color{
+  border-color: #9b59b6;
+}
+.theme-default-color .progress-bar {
+  background: #9b59b6;
+}
+.page-404{
+  background: #9b59b6;
+}
+/* header css */
+.dropdown-menu li a:hover{
+  color: #fefefe;
+  background: #9b59b6;
+}
+.social-list li a:hover{
+  color: #9b59b6;
+}
+.logo-hover-box{
+    border-top-color: #9b59b6;
+}
+.logo-hover-contact .social-list a{
+  color: #9b59b6;
+}
+.main-menu ul li a:hover,
+.main-menu ul li.active a{
+  color: #9b59b6;
+}
+.main-menu ul li a:after{
+  background: #9b59b6;
+}
+.main-menu ul li:hover > a{
+  color: #9b59b6;
+}
+/* Dropdown menu */
+.main-menu ul li > ul{
+    border-top-color: #9b59b6;
+}
+.main-menu ul li > ul:before,
+.logo-hover-box:before{
+    border-bottom-color: #9b59b6;
+}
+.main-menu ul li ul li > ul:before{
+  border-bottom-color: #9b59b6;
+}
+.mega-menu-wrapper{
+  border-top-color: #9b59b6;
+}
+.mega-menu-wrapper:before {
+    border-bottom-color: #9b59b6;
+}
+.mega-title:after {
+  background: #9b59b6;
+}
+
+/* slider css */
+.header-text-item .cd-words-wrapper, 
+.header-text-item .cd-words-wrapper b,
+.header-text-item .cd-words-wrapper i{
+  color: #9b59b6;
+}
+.nivo-directionNav a:hover{
+    background: #9b59b6;
+}
+.nivo-customizer .nivo-controlNav a.active {
+    background: #9b59b6;
+}
+.blog-heffect:before,
+.blog-heffect:after{
+    background: rgba(155, 89, 182, .50);
+}
+.header-topbg{
+	background-color: #9b59b6;
+}
+.instagram-feed li a:after{
+    background: rgba(155, 89, 182, .50);
+}
+.search-form-btn {
+  background-color: #9b59b6;
+  border-color: #9b59b6;
+  color: #fff;
+}
+.swiper-navarrow:hover{
+    background: #9b59b6;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active{
+    background: #9b59b6;
+}
+.home-intortab ul.nav li.active a {
+  color: #9b59b6;
+}
